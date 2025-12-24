@@ -109,7 +109,7 @@ Hi 👋, I'm Mohamed Elshinawy
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eng-Sinawy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eng-Shinawy&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
