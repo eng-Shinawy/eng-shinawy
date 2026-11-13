@@ -99,6 +99,11 @@ Hi 👋, I'm Mohamed Elshinawy
 - Live website: [tojargomla.com](https://tojargomla.com)
 - The source repository is private because this is a large, privately owned application
 
+### 📖 Kouttab – Quran Memorization & Tajweed Learning Platform
+- A complete platform connecting students who want to memorize the Quran and learn Tajweed with qualified Sheikhs who teach Quran memorization and Tajweed
+- Live website: [kouttab.org](https://kouttab.org)
+- The source repository is private
+
 ### 🪴 Paradise Nursery – React Shopping Application
 - Built a shopping app using React and Redux
 - Implemented add, remove, and update cart actions
