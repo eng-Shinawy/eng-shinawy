@@ -1,28 +1,26 @@
 <h1 align="center">
 Hi 👋, I'm Mohamed Elshinawy
 </h1>
-  <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(React+%26+Node.js);Front-End+Developer;Back-End+Developer;Cybersecurity+Enthusiast"
-    alt="Typing Animation"
-  />
-</p>
-
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxjYzZlN2ZpMXF2NXM4b2F3M2Y0dGx4N3U2dW1tZ2U3dXJpMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Software+Engineer;Frontend+Developer;Backend+Developer;Cybersecurity+Enthusiast" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxjYzZlN2ZpMXF2NXM4b2F3M2Y0dGx4N3U2dW1tZ2U3dXJpMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Systems & Computers Engineering graduate – Faculty of Engineering, Al-Azhar University (Very Good)
-- 💻 Front-End Developer (React.js)
-- 🛠️ Back-End Developer (Node.js)
-- 🗄️ Database experience with SQL & NoSQL
-- 🔐 Interested in Cybersecurity & Web Penetration Testing
-- 🏅 IBM Certified – Developing Front-End Apps with React
-- 🚀 Passionate about building real-world applications
+- 🎓 Graduate of Systems & Computers Engineering, Faculty of Engineering, Al-Azhar University, with a Very Good grade
+- 💻 Front-End Developer focused on building modern and responsive user interfaces
+- 🛠️ Back-End Developer with practical experience in Node.js and REST APIs
+- 🗄️ Strong understanding of SQL and NoSQL databases
+- 🔐 Interested in Cybersecurity, networking fundamentals, and web penetration testing
+- 🏅 IBM Certified in Developing Front-End Apps with React
+- 🚀 Passionate about creating real-world, scalable, and user-friendly applications
+- 🔎 Open to software development opportunities and professional growth
 
 ---
 
@@ -33,11 +31,11 @@ Hi 👋, I'm Mohamed Elshinawy
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
 </p>
 
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React.js  
-- Redux  
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Redux
 
 ---
 
@@ -46,10 +44,10 @@ Hi 👋, I'm Mohamed Elshinawy
   <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
 </p>
 
-- Node.js  
-- Express.js  
-- Java  
-- RESTful APIs  
+- Node.js
+- Express.js
+- Java
+- RESTful APIs
 
 ---
 
@@ -59,8 +57,8 @@ Hi 👋, I'm Mohamed Elshinawy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" />
 </p>
 
-- SQL Server  
-- MongoDB  
+- SQL Server
+- MongoDB
 
 ---
 
@@ -70,27 +68,26 @@ Hi 👋, I'm Mohamed Elshinawy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" />
 </p>
 
-- Git & GitHub  
-- Postman  
-- Linux  
+- Git & GitHub
+- Postman
+- Linux
 - Visual Studio
-- VS code  
+- VS Code
 - NetBeans
-  
 
 ---
 
 ### 🔐 Networking & Cybersecurity
-- CCNA Networking fundamentals  
-- Linux fundamentals  
-- Web Penetration Testing basics  
-- TryHackMe labs  
-- eWPT learning path  
+- CCNA networking fundamentals
+- Linux fundamentals
+- Web penetration testing basics
+- TryHackMe labs
+- eWPT learning path
 
 ---
 
 ## 🏅 Certifications
-- 🏆 **IBM – Developing Front-End Apps with React**  
+- 🏆 IBM – Developing Front-End Apps with React
   *(Issued via Coursera & Credly)*
 
 ---
@@ -98,12 +95,12 @@ Hi 👋, I'm Mohamed Elshinawy
 ## 🚀 Projects
 
 ### 🪴 Paradise Nursery – React Shopping Application
-- React & Redux for state management  
-- Add / Remove / Update cart items  
-- Dynamic total price calculation  
-- Clean UI & reusable components  
+- Built a shopping app using React and Redux
+- Implemented add, remove, and update cart actions
+- Calculated dynamic totals and handled state efficiently
+- Focused on clean UI and reusable components
 
-🔗 Repo: https://github.com/eng-Sinawy/e-plantShopping
+🔗 Repository: https://github.com/eng-Sinawy/e-plantShopping
 
 ---
 
@@ -134,7 +131,7 @@ Hi 👋, I'm Mohamed Elshinawy
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
 </p>
 
 <h3 align="center">
