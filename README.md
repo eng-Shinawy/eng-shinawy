@@ -3,7 +3,7 @@ Hi 👋, I'm Mohamed Elshinawy
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Software+Engineer;Frontend+Developer;Backend+Developer;Cybersecurity+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Software+Engineer;Frontend+Developer;Backend+Developer" />
 </p>
 
 <p align="center">
@@ -93,6 +93,11 @@ Hi 👋, I'm Mohamed Elshinawy
 ---
 
 ## 🚀 Projects
+
+### 🛒 Tojar Gomla – Wholesale Marketplace
+- Built a platform that connects wholesale traders with shop owners
+- Live website: [tojargomla.com](https://tojargomla.com)
+- The source repository is private because this is a large, privately owned application
 
 ### 🪴 Paradise Nursery – React Shopping Application
 - Built a shopping app using React and Redux
