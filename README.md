@@ -3,7 +3,7 @@ Hi 👋, I'm Mohamed Elshinawy
 </h1>
   <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(React+%26+Node.js);Frontend+%7C+Backend+Engineer;Cybersecurity+%26+Penetration+Testing+Enthusiast;IBM+Certified;Always+Building+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(React+%26+Node.js);Front-End+Developer;Back-End+Developer;Cybersecurity+Enthusiast"
     alt="Typing Animation"
   />
 </p>
@@ -16,7 +16,7 @@ Hi 👋, I'm Mohamed Elshinawy
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Computer Engineering student – Systems & Computers Engineering
+- 🎓 Systems & Computers Engineering graduate – Faculty of Engineering, Al-Azhar University (Very Good)
 - 💻 Front-End Developer (React.js)
 - 🛠️ Back-End Developer (Node.js)
 - 🗄️ Database experience with SQL & NoSQL
