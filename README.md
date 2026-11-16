@@ -86,10 +86,7 @@ flowchart LR
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eng-Shinawy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-Shinawy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eng-Shinawy&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
